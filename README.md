@@ -2,6 +2,7 @@
 GIT Workshop - STAC Era: COVID-19
 =========================================
   # Refer to the video walkthrough posted in Google Drive at any point you need guidance.
+  # Link to video : [[https://youtu.be/P9a3lU48bFY](https://youtu.be/P9a3lU48bFY)]
 ## Outline
 1. Setting up Git on Your Computer
 2. Creating Your Github Account 
