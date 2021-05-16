@@ -67,7 +67,7 @@ GIT Workshop - STAC Era: COVID-19
 9. Now that *<your_branch_name_here>* is essentially useless since it is the same as your master branch, you can go ahead and delete it with the following command ---> ```git branch -d <your_branch_name_here>```
 10. Well done :) 
 # 7. Additional Resources & Comments
-There is so many more useful things to Git that can't all be explored in this workshop. I encourage you to check out the below links to continue your learning and knowledge of Git. That's it from me. Good luck in whatever you've got going on at the moment!
+There are so many more useful things to Git that can't all be explored in this workshop. I encourage you to check out the below links to continue your learning and knowledge of Git. That's it from me. Good luck in whatever you've got going on at the moment!
 
 [https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 [https://githowto.com/getting_old_versions](https://githowto.com/getting_old_versions)
